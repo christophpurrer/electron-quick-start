@@ -1,5 +1,15 @@
 # electron-quick-start
 
+Quick test to determine the binary size of a hello world Electron application - by following https://www.electronjs.org/docs/latest/tutorial/quick-start#package-and-distribute-your-application
+
+## macOS
+
+![macOS](macOS.png)
+
+## Windows
+
+![windows](windows.png)
+
 **Clone and run for a quick way to see Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/latest/tutorial/quick-start) within the Electron documentation.
